@@ -47,3 +47,5 @@ terraform destroy -auto-approve
 For More configurations can be done to the instance while launch itself using user_data
 
 as of now we have created our webserver page which can accessed "public_ip:80"
+
+![screenshot](./result.png)
